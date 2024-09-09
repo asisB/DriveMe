@@ -3,7 +3,7 @@ import React, { useRef, useState } from 'react'
 import { TouchableOpacity } from 'react-native-gesture-handler';
 import { router } from 'expo-router';
 import Swiper from 'react-native-swiper';
-import { onboardingData } from '../constants';
+import { onboardingData } from '@/constants';
 import { Image } from 'react-native';
 import CustomButton from '@/components/CustomButton';
 
